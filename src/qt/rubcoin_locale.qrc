@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/rubcoin_bg.qm</file>
+        <file alias="de">locale/rubcoin_de.qm</file>
+        <file alias="en">locale/rubcoin_en.qm</file>
+        <file alias="es">locale/rubcoin_es.qm</file>
+        <file alias="fi">locale/rubcoin_fi.qm</file>
+        <file alias="fr">locale/rubcoin_fr.qm</file>
+        <file alias="it">locale/rubcoin_it.qm</file>
+        <file alias="ja">locale/rubcoin_ja.qm</file>
+        <file alias="pl">locale/rubcoin_pl.qm</file>
+        <file alias="pt">locale/rubcoin_pt.qm</file>
+        <file alias="ru">locale/rubcoin_ru.qm</file>
+        <file alias="sk">locale/rubcoin_sk.qm</file>
+        <file alias="sv">locale/rubcoin_sv.qm</file>
+        <file alias="vi">locale/rubcoin_vi.qm</file>
+        <file alias="zh_CN">locale/rubcoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/rubcoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

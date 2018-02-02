@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Rubcoin
+Comment=Rubcoin P2P Cryptocurrency
+Comment[fr]=Rubcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Rubcoin, eşten eşe kriptografik sanal para birimi
+Exec=rubcoin-qt %u
+Terminal=false
+Type=Application
+Icon=rubcoin128
+MimeType=x-scheme-handler/rubcoin;
+Categories=Office;Finance;

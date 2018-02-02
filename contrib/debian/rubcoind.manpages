@@ -1,0 +1,3 @@
+debian/manpages/rubcoind.1
+debian/manpages/rubcoin.conf.5
+debian/manpages/rubcoin-cli.1
